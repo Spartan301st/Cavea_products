@@ -1,0 +1,15 @@
+.table-container {
+  border-radius: 10px;
+}
+.table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+#thead {
+  background-color: #f6f1ff;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}

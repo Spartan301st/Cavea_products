@@ -1,0 +1,21 @@
+#dropdown {
+  background-color: #f6f1ff;
+}
+
+input[type="text"],
+input[type="number"] {
+  background-color: #f6f6f6;
+}
+
+.form_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.form_container form {
+  border-radius: 10px;
+}
+.error-message {
+  font-size: 0.7em;
+}

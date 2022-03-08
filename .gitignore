@@ -19,6 +19,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+*/.env
 .env.local
 .env.development.local
 .env.test.local
@@ -26,3 +27,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# notes
+notes.txt
+*/db.sql
+/backend/db.js
+/backend/index2.js
